@@ -1,3 +1,6 @@
+Read the book [here](https://chief-puffy-bill.glitch.me)!
+
+
 This is a tool that assisted in the generation of: Determiner Adjective Noun
 
 Steps to create were:
